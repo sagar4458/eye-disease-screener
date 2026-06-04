@@ -30,4 +30,4 @@ Webcam captures are for demonstration only. The model was trained on fundus phot
 
 ---
 
-*Published October 2025 with the basic upload interface and synthetic training data. Rebuilt in 2026 with real APTOS training, 108-feature pipeline and live camera feed with MediaPipe eye detection.*
+*Developed in October 2025 with the basic upload interface and synthetic training data. Rebuilt in 2026 with real APTOS training, 108-feature pipeline and live camera feed with MediaPipe eye detection.*
