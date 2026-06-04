@@ -21,7 +21,7 @@ The gap between 60% and the 85%+ you'd get from a fine-tuned CNN is real and doc
 ## what I'd do differently
 
 - go straight to CNN - EfficientNet-B0 fine-tuned on APTOS would hit 85%+ without this amount of feature engineering effort
-- image quality check before inference — currently accepts blurry or dark images and the low-confidence warning is the only safeguard
+- image quality check before inference - currently accepts blurry or dark images and the low-confidence warning is the only safeguard
 - would separate glaucoma screening into its own model rather than cramming it into the same DR grading pipeline
 
 ## known gaps
