@@ -1,0 +1,10 @@
+{
+  "total_images": 700,
+  "no_DR": 300,
+  "mild_DR": 150,
+  "moderate_DR": 120,
+  "severe_DR": 80,
+  "proliferative_DR": 50,
+  "image_source": "Derived from Kaggle DR detection dataset (open access)",
+  "resolution": "512x512px"
+}

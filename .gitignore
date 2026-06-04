@@ -1,0 +1,6 @@
+data/raw/
+model/*.joblib
+__pycache__/
+*.pyc
+*.pth
+*.h5

@@ -1,0 +1,16 @@
+{
+  "cv_accuracy": 0.6055,
+  "cv_std": 0.0115,
+  "n_classes": 5,
+  "n_samples": 1858,
+  "feature_dim": 108,
+  "classes": [
+    "Mild",
+    "Moderate",
+    "No_DR",
+    "Proliferate_DR",
+    "Severe"
+  ],
+  "model": "GradientBoosting-400trees-104features",
+  "dataset": "APTOS 2019"
+}
