@@ -7,7 +7,7 @@ Screens retinal fundus images for diabetic retinopathy severity across 5 grades 
 ## screenshots
 
 ![Old_Dashboard](screenshots/old_dashboard.png)
-![Old_Dashboard_Results](screenshots/old_dashboard _results.png)
+![Old_Dashboard_Results](screenshots/old_dashboard_results.png)
 ![New_Updated_Dashboard](screenshots/new_updated_dashboard.png)
 ![new_dashboard_Camera_based_Eye_Test](screenshots/camera_view.png)
 ![New_Dashboard_Analysis_Result_1](screenshots/new_updated_eyeimage_test.png)
